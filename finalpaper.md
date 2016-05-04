@@ -1,0 +1,37 @@
+# Minimalism: Less Is More
+
+From modern art to professional portfolios, minimalistic design isn’t just everywhere we look, but it has somehow become the norm needed to produce trendy and successful designs. When did this happen? Where did this design style come from and who made it mandatory in the young professional world?
+
+Minimalism is “used to describe music and art that is at the same time very similar and very different; we call this ‘disambiguation of perspectives’”(Obendorf, 2009, Pg. 10.) In simpler terms minimalism focuses on a simple style: minimal color, minimal text, minimal images.
+
+The timeline begins in the 1960s where the minimalistic design is a visual arts movement. It was the answer to vibrant colors, patterns, and exotic shapes that emerged after WWII’s end (Meyer, 2016). The simplistic art design could be characterized through “monochromatic palettes, geometric elements, serial arrangements, and industrial materials”. So the question remains, how did the groovy artwork of the 1960s set the tone for modern design? Flash-forward 20 years and the 1980s became the platform for minimalism to transform to content design. The debate was held over the correct data-print ratio in print media. Is there too much white space or not enough? HCI researcher John M. Carroll focused on audience perception of white space in print documents. At what point does the reader see too much text and shy away? As ‘white space’ in print design became a growing fashion, the emergence of web design was on the horizon and ready to start new conversations.
+
+With the start of the new millennium came a new era of interface design. Google was the first website credited with starting the minimalist trend. Though the blue screens of the 1980s were long gone, simplicity on the screen was trending.  The popularity of minimalistic design became an accepted part of Internet culture. By 2010 designers such as Microsoft and Apple where dueling to put out the next clean, clear, and innovated devices. With every Apple iPhone update that creates a sleeker and faster product comes a new Samsung Galaxy fighting to promote a better layout and design.
+
+We see through the culture adoption of minimalism is effective. However, this effectiveness depends on the correct balance of simplicity and content. What makes us look at an interface and think minimal rather than unfinished? Artistic rather than lazy? According to White Space Is Not Your Enemy: A Beginner's Guide to Communicating Visually through Graphic, Web & Multimedia Design by Kim Golombisky and Rebecca Hagen there are several factors to ensure your minimalist design effectively engages readers and best convey information.
+
+Though this style is not to every designer’s liking, there is no denying that the widespread use and popular of this strategy on today’s interfaces make this design effective on the common user. Smart phone users, Google visitors, and social media guru’s (take Instagram for example) engage with minimalist design everyday without realizing their interaction. Society expects minimalism without knowing it. In 2016 very few readers are willing to sort through pages of dense text to find an answer. How do designers meet public need? By perfecting the minimalist design. Golombisky and Hagen offer four main design techniques to perfect minimalist design:
+
+*No centering*
+- A common practice of those attempting to imitate minimalist design, centering is a juvenile technique. This practice is often used when a designer does not know what else to do. Letting one’s work speak for the majority of the page using minimalist design is key; however, this is not achieved through centering all content. With correct minimalist design, the reader will not need centering to see one’s work.
+
+*Too many fonts*
+- The use of one font is key to providing an overall style. Too many different fonts also distract the reader from the content. One or two font changes provide the eye-catching impact desired to break up information and highlight different sections of an interface.
+
+*Too much text*
+- Our society has been raised with the belief that white space is an indicator that the author isn’t knowledgeable. Creating blocks of text does not mean the content is more credible. Rather, users are less likely to give the content a try if it looks too demanding.
+- Try breaking up text to provide appropriate grouping to content. This allows readers the chance to skim for the information they need.
+
+*Avoid Busy backgrounds*
+-	A white background can be more effective than designers think. Having a distracting background puts a strain on the message you are attempting to convey. A white or simple background can create a bold stage for the content and images displayed.
+
+Minimalist design is surprisingly complex; appearing effortless is harder than it seems, just ask a female. However, as we have discovered the popularity of minimalism is growing stronger and becoming an essential detail of the common interface. So next time designing a flyer, editing a portfolio, or planning a webpage remember embrace the white space and go minimal: less is more.
+
+
+**Citations**
+
+Meyer, Kate. **"The Roots of Minimalism in Web Design."** Nngroup.com. N.p., 28 June 2015. Web. 20 Apr. 2016.
+
+Golombisky, Kim, and Rebecca Hagen. **"White Space Is Not Your Enemy: A Beginner's Guide to Communicating Visually through Graphic, Web & Multimedia Design."** Amsterdam: Focal/Elsevier, 2010. Print.
+
+Obendorf, Hartmut. "Chapter 1-5." **Minimalism: Designing Simplicity.** Dordrecht: Springer, 2009. N. pag. Print.
